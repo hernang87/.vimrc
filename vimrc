@@ -18,6 +18,8 @@ Plugin 'townk/vim-autoclose'
 Plugin 'scrooloose/syntastic'
 Plugin 'valloric/youcompleteme'
 Plugin 'tpope/vim-commentary'
+Plugin 'kien/rainbow_parentheses.vim'
+Plugin 'kennykaye/vim-relativity'
 
 set background=dark
 
